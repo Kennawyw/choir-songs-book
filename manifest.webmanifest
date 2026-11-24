@@ -1,0 +1,11 @@
+{
+  "name": "Choir Songs Book",
+  "short_name": "Choir Songs",
+  "description": "An elegant offline choir songbook reader.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b2b",
+  "theme_color": "#101b2b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
